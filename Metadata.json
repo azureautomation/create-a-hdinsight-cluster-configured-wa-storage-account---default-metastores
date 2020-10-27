@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 4496,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-a-hdinsight-cluster-configured-wa-storage-account-&-default-metastores/master/New-HDInsightCluster.ps1",
+    "DownloadCount": 2348,
+    "Id": "Create-a-HDInsight-cluster-4edce5d7",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 382,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates a HDInsight cluster configured with one storage account and default metastores. If storage account or container are not specified they are created automatically under the same name as the one provided for cluster. If ClusterSize is not specified it defaults to 2 nodes.",
+    "Title": "Create a HDInsight cluster configured w/a storage account & default metastores",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/create-a-hdinsight-cluster-configured-wa-storage-account-&-default-metastores",
+    "UserTags": "Provisioning"
+}
